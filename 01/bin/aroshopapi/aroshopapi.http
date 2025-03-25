@@ -1,0 +1,6 @@
+@aroshopapi_HostAddress = http://localhost:5288
+
+GET {{aroshopapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
